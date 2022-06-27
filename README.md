@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @julesMugisha
-- 👀 I’m interested in Php and React
-- 🌱 I’m a graduate at CMU in MSIT
-- 💞️ I'm looking for project participation either engineering or development
+- 👀 I’m interested software Engineering, Data engineering 
+- 🌱 I’m a graduate at CMU in MSIT 
 - 📫 Reach me through mugishajules75@gmail.com
 
 <!---
